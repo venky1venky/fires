@@ -81,14 +81,17 @@ http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/inde
 http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
 #EXTINF:-1 group-title="മലയാളം",Mangalam
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-#EXTINF:-1 group-title="தமிழ்",Mk Tunes
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 group-title="தமிழ்",Mk TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 group-title="தமிழ்",Mk Six
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
 #EXTINF:-1 group-title="हिंदी Movies",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 group-title="Mastii",Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
+#EXTINF:-1 group-title="Zee5Romance",Zee5Romance
+https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
+
+
 #EXTINF:-1 group-title="தமிழ்",Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 
@@ -103,29 +106,25 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/
 #EXTINF:-1 group-title="தமிழ்",Raj TV HD
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 
+#EXTINF:-1 group-title="cinemausa",cinemausa
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="ztvme",ztvme
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="தமிழ்",Star Sports Tamil
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
+#EXTINF:-1 group-title="apacsea",apacsea
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
-#EXTINF:-1 group-title="தமிழ்",JAYA Max
-http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=
-#EXTINF:-1 group-title="தமிழ்",JAYA TV HD
-http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="தமிழ்",KTV HD
-http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="தமிழ்",Polimer TV
-http://212.224.98.196:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=
-#EXTINF:-1 group-title="தமிழ்",Vijay Super
-http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
-#EXTINF:-1,STAR VIJAY
-http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=
-#EXTINF:-1,
-http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="தமிழ்",Zee Tamil
-http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="canadahd",canadahd
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
 
+#EXTINF:-1 group-title="russia",russia
+https://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
+
+#EXTINF:-1 group-title="world",world
+https://y5w8j4a9.ssl.hwcdn.net/world/index.m3u8
+
+#EXTINF:-1 group-title="zzesthd",zzesthd
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
 
