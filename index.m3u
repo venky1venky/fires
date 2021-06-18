@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", News18
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -43,3 +43,12 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+
+
+
+EXTINF:0 group-title="Tamil;Local" tvg-logo="https://kccl.tv/sites/default/files/mk%20tunes.jpg",Puthuyugam
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+
