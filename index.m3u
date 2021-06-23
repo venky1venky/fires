@@ -104,11 +104,8 @@ http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1n69xhcbKqKewHgT4hWHuyabnbVqv1-igzVva1ctzAPu4U-YS23Rwh5Kpi5xEuG5tA=s180-rw" group-title="Tamil;Entertainment",Tamil TV Plus
 http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
 
-#EXTM3U 
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ky-iptv.com:25461/NJDHH259b/2544598752/1101278
 
 
@@ -143,48 +140,10 @@ http://ky-iptv.com:25461/NJDHH259b/2544598752/1101291
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport Grandstand
 http://ky-iptv.com:25461/NJDHH259b/2544598752/1328208
 
-#EXTM3U 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",AF:SuperSport Cricket|HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ky-iptv.com:25461/NJDHH259b/2544598752/1116402
 
 
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa Supersport Play 1
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386575
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Premier League
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386576
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport PSL
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386577
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa Supersport Tennis
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386578
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Rugby
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386579
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Variety 1
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386580
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Variety 3
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386582
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Variety 4
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386583
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Action
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386585
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Cricket
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386586
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",AF:SUPERSPORT MAXIMO
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386588
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Variety 2
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386581
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Motorsport
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386584
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Football
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1019733
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Golf
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1019734
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",AF:SUPERSPORT BLITZ
-http://ky-iptv.com:25461/NJDHH259b/2544598752/386587
 
 
 
