@@ -104,9 +104,16 @@ http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1n69xhcbKqKewHgT4hWHuyabnbVqv1-igzVva1ctzAPu4U-YS23Rwh5Kpi5xEuG5tA=s180-rw" group-title="Tamil;Entertainment",Tamil TV Plus
 http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
 
-
+#EXTM3U 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ky-iptv.com:25461/NJDHH259b/2544598752/1101278
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 2
 http://ky-iptv.com:25461/NJDHH259b/2544598752/1101279
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 3
@@ -135,8 +142,17 @@ http://ky-iptv.com:25461/NJDHH259b/2544598752/1101290
 http://ky-iptv.com:25461/NJDHH259b/2544598752/1101291
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport Grandstand
 http://ky-iptv.com:25461/NJDHH259b/2544598752/1328208
+
+#EXTM3U 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",AF:SuperSport Cricket|HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ky-iptv.com:25461/NJDHH259b/2544598752/1116402
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa Supersport Play 1
 http://ky-iptv.com:25461/NJDHH259b/2544598752/386575
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Premier League
