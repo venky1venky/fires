@@ -1,3 +1,16 @@
+
+#EXTINF:0 tvg-country="DE;IN" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="Germany(397)",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/thoothukudi/x7/9999px461.x461.171230025350.z5x7/catalogue/abinaya-tv-eral-thoothukudi-tv-dealers-glypt4le1n-250.jpg" group-title="Tamil Local;Entertainment",Abinaya HD
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SX_2a2oSgSCXuoayomAeZI2EZImFk2i7l8eDYKUC-G-C6It33SYe9bcqcIhpd25lcuc=s180-rw" group-title="Tamil;Entertainment",Tamil TV
+http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1n69xhcbKqKewHgT4hWHuyabnbVqv1-igzVva1ctzAPu4U-YS23Rwh5Kpi5xEuG5tA=s180-rw" group-title="Tamil;Entertainment",Tamil TV Plus
+http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png" group-title="Tamil;News",Polimer News
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
 
@@ -15,12 +28,6 @@ https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniVcmrd5czUfkeABDtAHhDUOh54nNY2gCi_76drzg=s88-c-k-c0x00ffffff-no-rj" group-title="Tamil;News",MaalaiMurasu TV
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News 1
-http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608980b35450f/608980b35450f.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sun_News_2017.jpg/revision/latest/scale-to-width-down/220?cb=20180318050614" group-title="Tamil;News",Sun News 2
-http://rv.therevenge.co:80/live/692653432434504/692653432434504/83948.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://imga.androidappsapk.co/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g=s300" group-title="Tamil;News",Kalaignar Seithigal
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
@@ -116,36 +123,13 @@ http://uk1.zecast.com:1935/star-live/colours/index.m3u8
 #EXTINF:-1 group-title="தமிழ்",Akaramkidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil International;Comedy",Adithya Malaysia
-http://pal.ukodtv.xyz/live/3238545630/7067527301/39.m3u8?token=QhpQUUYMEAlABFoHCAYLB1VWVwRSDwNVAldcUggHVwlcCwxVA1MKClEQFUZDQUFVBVpsCwUbDAVdTUdGSwRDb1BcGgoXUAcDVhAVRkRcXlVGDQNOQ0lfUkZbC0ZUDR0SXEBMVUcKU189VlwSWVZWEl5ZRg4NFRRZCj4BVlUAX1QbAhoBF0gQWhFCG15eQF9cSBVRCxVLV0IBQ19dTQ1dHBtbV0VbEEBKQAgbLX4XHxIBT0cHD0pfWQpDXxFVUkQIGxQaWUY7QFYRRksBUVhWQkYNEVJDFRRbBRk6UFcPX1VaTFFfWxcQCUADG0gSWFxeDUNcED5JX1JGWwtGVA1M
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv0tyJmw/newcanvas-1619840386422.png" group-title="Tamil Local;Entertainment",Wins Tv(Madura Tv)
-http://bmlive.net:8000/WINS/winstv/bms.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/svGc_Z5HrkV891tSkXNRPKa0Y0JHBt6GqluN9AuHdOtv9PgryBuZZWxC7sK2CYmrFSo=s180-rw" group-title="Tamil Local;Entertainment",Anandam Utv Madurai
-http://nextgeninfotech.ddns.net:8080/utv/utv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdg8nHLM/newcanvas-1619629207647-1619856355574.png" group-title="Tamil Local;Entertainment",Anandam Akash Tv(Madura Tv)
-http://nextgeninfotech.ddns.net:8080/akash/akash.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhH8PhAig492qs3GAszfp3fAAttCelnrLpqi1P9=s48-c-k-c0x00ffffff-no-rj" group-title="Tamil Local;Entertainment",Anandam Abi Tv Madurai
-http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdvhGzz0/IMG-20210501-125713.png" group-title="Tamil Local;Entertainment",SMCV
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fozeBomhI7yJwqpAw83tTdNWSPeTvh9xlB0z3GidYsLir-a4d8Uie3MQ7gWrCDwGYY67=s180-rw" group-title="Tamil;Entertainment",Tamil Vision Tv
 http://stream4.livebox.co.in/tamilvisionhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/thoothukudi/x7/9999px461.x461.171230025350.z5x7/catalogue/abinaya-tv-eral-thoothukudi-tv-dealers-glypt4le1n-250.jpg" group-title="Tamil Local;Entertainment",Abinaya HD
-http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SX_2a2oSgSCXuoayomAeZI2EZImFk2i7l8eDYKUC-G-C6It33SYe9bcqcIhpd25lcuc=s180-rw" group-title="Tamil;Entertainment",Tamil TV
-http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1n69xhcbKqKewHgT4hWHuyabnbVqv1-igzVva1ctzAPu4U-YS23Rwh5Kpi5xEuG5tA=s180-rw" group-title="Tamil;Entertainment",Tamil TV Plus
-http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLY2xCk7/Screenshot-2021-05-30-21-48-36-457-org-videolan-vlc-1622391681522.png" group-title="Tamil Local;Entertainment",Jothi TV
 http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8
@@ -220,10 +204,8 @@ http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 http://185.105.4.244:1935/live/ntv/playlist.m3u8
 
 
-http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
 
-#EXTINF:0 tvg-country="DE;IN" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="Germany(397)",Santhora TV
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby
+
 
 
 #EXTINF:-1 group-title="தமிழ்",Captain TV
@@ -300,6 +282,43 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 
 #EXTINF:-1 group-title="zbanglacnm",zbanglacnm
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+#EXTINF:0, Rasi TV
+#EXTGRP:Bollywood
+http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
+
+#EXTINF:0, Show Box
+#EXTGRP:Bollywood
+https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
+
+#EXTINF:0,Music Non Stop
+#EXTGRP:Music
+https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
+
+#EXTINF:0,MTV 2
+#EXTGRP:Music
+https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
+
+#EXTINF:0,B4U Music
+#EXTGRP:Music
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+
+
+#EXTINF:0,9X Jalwa
+#EXTGRP:Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+
+
+#EXTINF:0,Set Max UK
+#EXTGRP:Bollywood
+http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0,Set Max APAC
+#EXTGRP:Bollywood
+http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
+
+
 
 
 
