@@ -5,11 +5,172 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/thoothukudi/x7/9999px461.x461.171230025350.z5x7/catalogue/abinaya-tv-eral-thoothukudi-tv-dealers-glypt4le1n-250.jpg" group-title="Tamil Local;Entertainment",Abinaya HD
 http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sTNCgIgv2vPmeAywhouxARul-ckvzwSqcsa-WxtxYpckA0flVVkYgBLMEmNLWDJDUw=s180-rw" group-title="Tamil Local;Entertainment",Salem Merchi TV
+http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ee4iFiidIGJc5Zgp-m6lk2-FlcASjs6JayP_mY_Fn9So-nkkgs6-TNDvbMdezv-RmA=s180-rw" group-title="Tamil Local;Entertainment",Yaal TV
+http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=s180-rw" group-title="Tamil Local;Entertainment",Jeyam Plus
+http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",SAI TV
+http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+
+#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+
+#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam TV
+http://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",ANALAI MOVIE
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",MONTAMIL CINEMA
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdvhGzz0/IMG-20210501-125713.png" group-title="Tamil Local;Entertainment",SMCV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",KALAI CINEMA
+http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",YOGAA TV
+http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",SALAMMER TV
+http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",TTV
+http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",PURPLE TV
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",SMCV TV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",SSS TV
+http://stream.singamcloud.in:1935/ssshd/ssshd/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",SSVARMA TV
+http://stream.singamcloud.in:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",SHALINIMAX TV
+http://stream.singamcloud.in:1935/shalinimax/shalinimax/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",VANIPLUSE TV
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",ANU TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",KALAI TV
+http://singamcloud.in:1935/kalaicinema/kalaicinema/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",ABM TV
+http://singamcloud.in:1935/abmtv/abmtv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",JOS TV
+http://stream.singamcloud.in:1935/jostv/jostv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",RAINBOW TV
+http://live.singamcloud.in:1935/rainbowtv/rainbowtv/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",RASI HOLLWOOD
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",RASI TAMIL
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",RASI MUSIC
+http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",V TV
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",NINE TV
+http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",EZHIL TV
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",RPLUS TV
+http://198.144.149.82:8080/NOTV/RPLUSTV/index.m3u8?token=GTR
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",PHOENIX TV
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+
+
+
+
+#EXTM3U 
+#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/IgwQ7o5.png", athavantv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SX_2a2oSgSCXuoayomAeZI2EZImFk2i7l8eDYKUC-G-C6It33SYe9bcqcIhpd25lcuc=s180-rw" group-title="Tamil;Entertainment",Tamil TV
 http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1n69xhcbKqKewHgT4hWHuyabnbVqv1-igzVva1ctzAPu4U-YS23Rwh5Kpi5xEuG5tA=s180-rw" group-title="Tamil;Entertainment",Tamil TV Plus
 http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 1
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101278
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 2
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101279
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 3
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101280
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 4
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101281
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 5
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101282
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 6
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101283
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 7
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101284
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 8
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101285
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 9
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101286
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 10
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101287
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 11
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101288
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 12
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101289
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport Blitz
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101290
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport maximo
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1101291
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport Grandstand
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1328208
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",AF:SuperSport Cricket|HD
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1116402
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa Supersport Play 1
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386575
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Premier League
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386576
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport PSL
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386577
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa Supersport Tennis
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386578
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Rugby
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386579
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Variety 1
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386580
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Variety 3
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386582
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Variety 4
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386583
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Action
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386585
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Cricket
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386586
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",AF:SUPERSPORT MAXIMO
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386588
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Variety 2
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386581
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Motorsport
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386584
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Football
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1019733
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",South Africa SuperSport Golf
+http://ky-iptv.com:25461/NJDHH259b/2544598752/1019734
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",AF:SUPERSPORT BLITZ
+http://ky-iptv.com:25461/NJDHH259b/2544598752/386587
+
+
 
 #EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png" group-title="Tamil;News",Polimer News
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
@@ -56,12 +217,6 @@ http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/bv05892.gif" group-title="Tamil International;News",Capital News
 http://89.187.162.89/Capital_NEWS/index.m3u8
 
-#EXTM3U 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/IgwQ7o5.png", athavantv
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title="Tamil;Local",Velicham TV
@@ -78,18 +233,6 @@ https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-
-
-#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam MUSIC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://mntv.livebox.co.in/musichls/live.m3u8
 
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://kccl.tv/sites/default/files/mksix.jpg",MK Six
@@ -123,16 +266,12 @@ http://uk1.zecast.com:1935/star-live/colours/index.m3u8
 #EXTINF:-1 group-title="தமிழ்",Akaramkidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdvhGzz0/IMG-20210501-125713.png" group-title="Tamil Local;Entertainment",SMCV
-http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fozeBomhI7yJwqpAw83tTdNWSPeTvh9xlB0z3GidYsLir-a4d8Uie3MQ7gWrCDwGYY67=s180-rw" group-title="Tamil;Entertainment",Tamil Vision Tv
 http://stream4.livebox.co.in/tamilvisionhls/live.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLY2xCk7/Screenshot-2021-05-30-21-48-36-457-org-videolan-vlc-1622391681522.png" group-title="Tamil Local;Entertainment",Jothi TV
-http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wjpKKPS/1619855252303.png" group-title="Tamil Local;Entertainment",Jeyam tv Covai
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
@@ -140,14 +279,12 @@ http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0YtWc3Z/Screenshot-2021-04-28-22-09-18-913-org-videolan-vlc-1619628396155.png" group-title="Tamil Local;Entertainment",D Jeyam tv
 http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sTNCgIgv2vPmeAywhouxARul-ckvzwSqcsa-WxtxYpckA0flVVkYgBLMEmNLWDJDUw=s180-rw" group-title="Tamil Local;Entertainment",Salem Merchi TV
-http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9J5HJuI.png" group-title="Tamil Local;Entertainment",Vani TV HD
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ee4iFiidIGJc5Zgp-m6lk2-FlcASjs6JayP_mY_Fn9So-nkkgs6-TNDvbMdezv-RmA=s180-rw" group-title="Tamil Local;Entertainment",Yaal TV
-http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CgvOoJ4ewOfDSZi8OHbmkX6Ucxoqjt70abOuxNN1uPh3uvKnvuEhBOoZXjcCCRWOcq3J=s180-rw" group-title="Tamil Local;Entertainment",Kanchi tv
 http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
@@ -185,8 +322,6 @@ https://account24.livebox.co.in/kinghls/king.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2xIuegzKijfOzAYtTTZgb-tAE5cZCEvEgYtV_JAgD6DhkDoXAVo5lF2xeqa82jRXwRPS=s180-rw" group-title="Tamil Local;Entertainment",uzhavan tv
 http://198.144.149.82:8080/NOTV/UZHAVANTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=s180-rw" group-title="Tamil Local;Entertainment",Jeyam Plus
-http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Xea7CFGEs9yz8dpjue_Hcy1_w_XX3u-WctD_lqzL9Wzo9T6ET3WQrKDldfluEIil01Wu=s180-rw" group-title="Tamil Local;Entertainment",Arunai Tv
 http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
