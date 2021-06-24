@@ -105,47 +105,6 @@ http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
 http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 1
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101278
-
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 2
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101279
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 3
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101280
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 4
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101281
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 5
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101282
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 6
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101283
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 7
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101284
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 8
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101285
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 9
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101286
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 10
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101287
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 11
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101288
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport 12
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101289
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport Blitz
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101290
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport maximo
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1101291
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",SuperSport Grandstand
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1328208
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@DSTV",AF:SuperSport Cricket|HD
-http://ky-iptv.com:25461/NJDHH259b/2544598752/1116402
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png" group-title="Tamil;News",Polimer News
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
