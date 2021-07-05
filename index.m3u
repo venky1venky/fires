@@ -416,6 +416,8 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:-1 group-title="zbanglacnm",zbanglacnm
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
+
+
 #EXTINF:0, Rasi TV
 #EXTGRP:Bollywood
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
@@ -452,6 +454,64 @@ http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
 http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1, ZEE CAFE HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, AND PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+
+#EXTINF:-1, AND FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:-1, ZEE CINEMA HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLzDtZMC/9XM.png",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLzDtZMC/9XM.png",ZeeTv
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZeeTV/ZeeTV.isml/index.m3u8
+
+#EXTINF:-1 ,DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+#EXTINF:-1 ,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 ,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1 ,Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+#EXTINF:-1 tvg-id="KasthuriTV.in" tvg-name="Kasthuri TV"
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music"
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+#EXTINF:-1  group-title="मराठी",Zee Vajwa
+https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
+
+https://techdracula.com/kerala-vision-digital-tv-channels-list-numbers/
+
+
+#EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/HkjTz25S/MTV.png",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",MUSIC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+
+
+#EXTINF:-1, ABU DHABI TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1, ABU DHABI DRAMA
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+
+#EXTINF:-1, HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
 
