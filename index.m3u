@@ -418,38 +418,38 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:0, Rasi TV
+#EXTINF:-1,, Rasi TV
 #EXTGRP:Bollywood
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 
-#EXTINF:0, Show Box
+#EXTINF:-1,, Show Box
 #EXTGRP:Bollywood
 https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
 
-#EXTINF:0,Music Non Stop
+#EXTINF:-1,,Music Non Stop
 #EXTGRP:Music
 https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
 
-#EXTINF:0,MTV 2
+#EXTINF:-1,,MTV 2
 #EXTGRP:Music
 https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 
-#EXTINF:0,B4U Music
+#EXTINF:-1,,B4U Music
 #EXTGRP:Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 
 
-#EXTINF:0,9X Jalwa
+#EXTINF:-1,,9X Jalwa
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 
 
-#EXTINF:0,Set Max UK
+##EXTINF:-1,,Set Max UK
 #EXTGRP:Bollywood
 http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0,Set Max APAC
+#EXTINF:-1,Set Max APAC
 #EXTGRP:Bollywood
 http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
 
@@ -513,6 +513,48 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1, HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Kasthuri TV
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",DD ORIYA
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",jhanjar_music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",jhanjar_hd
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",DesiTV USA
+http://cdn30.liveonlineservices.com/hls/desitv.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Desi TV CANADA
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Channel Y Canada
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",BBC Toronto Gaunda Punjab (CA) / INDIA
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",SteelBirdMusic
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="World",Hongkong sports1
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="World",Hongkong sports2
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="World",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
 
