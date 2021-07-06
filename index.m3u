@@ -444,14 +444,6 @@ https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 
 
-##EXTINF:-1,,Set Max UK
-#EXTGRP:Bollywood
-http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Set Max APAC
-#EXTGRP:Bollywood
-http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
 
 
 
@@ -494,14 +486,9 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1  group-title="मराठी",Zee Vajwa
 https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
 
-https://techdracula.com/kerala-vision-digital-tv-channels-list-numbers/
-
 
 #EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/HkjTz25S/MTV.png",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",MUSIC 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 
 
