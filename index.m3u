@@ -463,7 +463,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLzDtZMC/9XM.png",ZeeTv
+#EXTINF:-1,ZeeTv
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZeeTV/ZeeTV.isml/index.m3u8
 
 #EXTINF:-1 ,DD National
