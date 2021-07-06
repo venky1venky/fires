@@ -477,11 +477,8 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 #EXTINF:-1 ,Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 
-#EXTINF:-1 tvg-id="KasthuriTV.in" tvg-name="Kasthuri TV"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Kasthuri TV
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-
-#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music"
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 
 #EXTINF:-1  group-title="मराठी",Zee Vajwa
 https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
@@ -504,8 +501,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Kasthuri TV
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",DD ORIYA
