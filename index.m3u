@@ -386,38 +386,6 @@ https://live.wmncdn.net/peppers/live.stream/index.m3u8
 #EXTINF:-1 group-title="தமிழ்",Raj TV HD
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 
-#EXTINF:-1 group-title="cinemausa",cinemausa
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="ztvme",ztvme
-https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 group-title="apacsea",apacsea
-https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
-
-#EXTINF:-1 group-title="canadahd",canadahd
-https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
-
-#EXTINF:-1 group-title="russia",russia
-https://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
-
-#EXTINF:-1 group-title="world",world
-https://y5w8j4a9.ssl.hwcdn.net/world/index.m3u8
-
-#EXTINF:-1 group-title="mundohd",mundohd
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="zzesthd",zzesthd
-https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="cinemauk",cinemauk
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
-
-#EXTINF:-1 group-title="zbanglacnm",zbanglacnm
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-
-
-
 #EXTINF:-1,, Rasi TV
 #EXTGRP:Bollywood
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
@@ -447,25 +415,6 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 
 
 
-#EXTINF:-1, ZEE CAFE HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1, AND PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
-
-#EXTINF:-1, AND FLIX HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
-
-#EXTINF:-1, ZEE CINEMA HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLzDtZMC/9XM.png",9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-
-#EXTINF:-1,ZeeTv
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZeeTV/ZeeTV.isml/index.m3u8
-
 #EXTINF:-1 ,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
@@ -484,6 +433,107 @@ http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
 
 
+
+#EXTINF:-1  tvg-logo="http://195.154.221.171/picons/zeeaction.png" group-title="INDIA", Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_399,h_224,c_scale,f_auto,q_auto/resources/0-9-zeeanmol/channel_list/zeeanmol_837549360.png" group-title="INDIA", Zee ANMOL
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Zee_Anmol_Cinema.jpg" group-title="INDIA",Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://zeebanglacinema.com/wp-content/uploads/2017/01/Zee-Bangla-Cinema-orange-logo.png" group-title="INDIA", Zee Bangala Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-bihar-jharkhand-45.png" group-title="INDIA",Zee Bihar Jharkhand
+https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="INDIA", Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-cafe-logo.jpg" group-title="INDIA", Zee Cafe
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7hwOhb.jpg" group-title="INDIA",ZEE CINEMA HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7hwOhb.jpg" group-title="INDIA",ZEE CINEMA USA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="INDIA",Zee Cinema Middle East
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="INDIA",Zee Cinema UK
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_of_Zee_Keralam.jpg/330px-Logo_of_Zee_Keralam.jpg" group-title="INDIA",Zee Keralam
+https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-bihar-jharkhand-45.png" group-title="INDIA",Zee News Bihar Jharkhand
+https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-mpcg-45.png" group-title="INDIA",Zee News MPCG
+https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/ZeeMusicCo.jpg" group-title="INDIA",Zee Music Co
+https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/ZEEMagicLogo.jpg/900px-ZEEMagicLogo.jpg" group-title="INDIA",Zee Magic
+https://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v2a1/playlist.m3u8
+#http://z5amshls.akamaized.net/magic/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Zee_Mundo_2018.png" group-title="INDIA",Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a4COK1uG1kw/YKMSlMYXckI/AAAAAAAAA3E/HSxxtAKew_IxmNw62gxA01Y9B1Tvw2LVACLcBGAsYHQ/w200-h117/images%2811%29.jpeg" group-title="INDIA",ZEE5 ORIGINALS
+https://y5w8j4a9.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeMarathi.in.png" group-title="INDIA", Zee Marathi
+https://y5w8j4a9.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="INDIA", Zee Punjabi
+https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-PHH1.jpg" group-title="INDIA", Zee Punjab Haryana Himachal
+https://y5w8j4a9.ssl.hwcdn.net/punjabi/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8t9qxX6Oh0PIIWmo9q9s9kuU-hG5CGBSr38zesRO1DEL0GkVy&usqp=CAU" group-title="INDIA", Zee Rajasthan
+https://y5w8j4a9.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="INDIA",ZEE SMILE
+https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOEoIFRiUwjtqO54E0IzKrBiV1_Fy36LOfqLw2Y2-SzXvb0NSD" group-title="INDIA", Zee TALKIES
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd//tracks-v1a1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Zee_Vajwa_logo.png" group-title="INDIA",Zee Vajwa
+https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="INDIA",Zee TV USA
+https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="INDIA",Zee TV Middle East
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="INDIA",Zee TV Apac
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="INDIA",Zee TV Canada
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="INDIA",Zee TV Russia
+https://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Zest-Logo.jpg" group-title="INDIA",Zee Zest
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUWpCAk.jpg" group-title="INDIA",Zee World
+https://y5w8j4a9.ssl.hwcdn.net/world/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/e7b81b4d6170a2e30b8d8cccf9581658.jpg" group-title="INDIA", ZING
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/HkjTz25S/MTV.png",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
@@ -497,11 +547,12 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1, HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" tvg-country="BH" tvg-url="" group-title="",Bahrain International
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist_w672423170.m3u8
 
-
+#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",DD ORIYA
