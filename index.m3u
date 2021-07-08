@@ -1,9 +1,10 @@
 
-#EXTINF:0 tvg-country="DE;IN" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="Germany(397)",Santhora TV
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby
 
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/thoothukudi/x7/9999px461.x461.171230025350.z5x7/catalogue/abinaya-tv-eral-thoothukudi-tv-dealers-glypt4le1n-250.jpg" group-title="Tamil Local;Entertainment",Abinaya HD
 http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",VANIPLUSE TV
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sTNCgIgv2vPmeAywhouxARul-ckvzwSqcsa-WxtxYpckA0flVVkYgBLMEmNLWDJDUw=s180-rw" group-title="Tamil Local;Entertainment",Salem Merchi TV
 http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8
@@ -17,8 +18,7 @@ http://live.singamcloud.in:1935/rainbowtv/rainbowtv/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",ABM TV
 http://singamcloud.in:1935/abmtv/abmtv/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",VANIPLUSE TV
-http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",ANU TV
 http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
 
@@ -56,6 +56,9 @@ http://streaming.livebox.co.in/newtamiltvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1n69xhcbKqKewHgT4hWHuyabnbVqv1-igzVva1ctzAPu4U-YS23Rwh5Kpi5xEuG5tA=s180-rw" group-title="Tamil;Entertainment",Tamil TV Plus
 http://streaming.livebox.co.in/Tamiltvhls/stream.m3u8
 
+#EXTINF:0 tvg-country="DE;IN" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="Germany(397)",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?checkedby
+
 
 #EXTM3U 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
@@ -92,7 +95,7 @@ http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
 #EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 
-#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam TV
+#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam MUSIC
 http://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TAMIL=TV",ANALAI MOVIE
@@ -266,6 +269,8 @@ http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9J5HJuI.png" group-title="Tamil Local;Entertainment",Vani TV HD
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 
+
+
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.aasaitvlive.in/img/aasai_tv.png",AASAI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -361,9 +366,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Mastii",Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
-#EXTINF:-1 group-title="Zee5Romance",Zee5Romance
-https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
-
 
 #EXTINF:-1 group-title="தமிழ்",Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
@@ -394,6 +396,18 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 #EXTGRP:Bollywood
 https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
 
+
+#EXTINF:-1 "",ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 "",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8?checkedby:hlscat.com
+
+
+#EXTINF:-1 "",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:hlscat.com
+
+
 #EXTINF:-1,,Music Non Stop
 #EXTGRP:Music
 https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
@@ -413,7 +427,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_2
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Shemaroo Bollywood Premier 
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 
 #EXTINF:-1 ,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
@@ -432,6 +447,8 @@ http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:-1  group-title="मराठी",Zee Vajwa
 https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeMarathi.in.png" group-title="INDIA", Zee Marathi
+https://y5w8j4a9.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://195.154.221.171/picons/zeeaction.png" group-title="INDIA", Zee Action
@@ -485,8 +502,7 @@ https://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v2a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a4COK1uG1kw/YKMSlMYXckI/AAAAAAAAA3E/HSxxtAKew_IxmNw62gxA01Y9B1Tvw2LVACLcBGAsYHQ/w200-h117/images%2811%29.jpeg" group-title="INDIA",ZEE5 ORIGINALS
 https://y5w8j4a9.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeMarathi.in.png" group-title="INDIA", Zee Marathi
-https://y5w8j4a9.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="INDIA", Zee Punjabi
 https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-PHH1.jpg" group-title="INDIA", Zee Punjab Haryana Himachal
@@ -564,6 +580,8 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 
 
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-language=”English” tvg-logo=”https://i.imgur.com/PkWndsv.png&#8221; tvg-country=”CA” tvg-url=”” group-title=””,Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",DesiTV USA
 http://cdn30.liveonlineservices.com/hls/desitv.m3u8
