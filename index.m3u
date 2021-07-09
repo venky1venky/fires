@@ -664,3 +664,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="World", VEVO
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="World", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
