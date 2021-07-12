@@ -33,6 +33,27 @@ http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
 #http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8
 
 
+#EXTINF:-1,DAN NEWS(INTL)
+https://askmedia.livebox.co.in/DANNewshls/2.m3u8
+
+#EXTINF:-1,DAN MUSIC(INTL)
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+
+#EXTINF:-1,DAN TAMIL(INTL)
+http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
+
+#EXTINF:-1,PIRAI TAMIL(INTL)
+http://askmedia.livebox.co.in/PiraiTVhls/piraitv.m3u8
+
+#EXTINF:-1,Capital News HD(INTL)
+http://89.187.162.89:80/Capital_NEWS/index.m3u8
+
+#EXTINF:-1, Suriyan TV
+https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJquf5mcqrJ2ZeEJK7YadWqe4)/dm/3/x7urlew/s/live-4.m3u8
+
+#EXTINF:-1, Nammakaga
+https://player.mslivestream.net/mslive/a5e669e9a3073f1384994f3b02576748.sdp/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",And TV HD 
 http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8
@@ -818,3 +839,23 @@ http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",SPORTS_TEN_3
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",SKYSPORTS CRICKET
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8?e=1&Auth_Token=8c4521645cc8a1c1b699feb48d17867380042a7ar!&Auth_IP=MKiMTQ5LjEwOS4yOC44NA==&report=@thdtv
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",bein sports 1
+http://1.adnaraoun.xyz/live/6262622200/index.m3u8?rb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",bein sports 1a
+http://b.wnbouhagsa.xyz/live/6262622200/index.m3u8?rb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",bein sports 1b
+https://m3u8.1proxy.xyz/media/g_14/playlist.m3u8?rb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",SPORTTV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8?rb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",SPORTTV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8?per
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",SPORTTV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8?per
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",SPORTTV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
