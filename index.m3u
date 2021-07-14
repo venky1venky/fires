@@ -1,3 +1,53 @@
+#EXTINF:-1  group-title="தமிழ்",Sun TV HD
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=14020
+#EXTINF:-1  group-title="தமிழ்",Adhithya
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9023&e=.m3u8
+#EXTINF:-1  group-title="தமிழ்",SunMusic HD
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9013&e=.m3u8
+#EXTINF:-1  group-title="தமிழ்",KTV
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
+
+#EXTINF:-1  group-title="తెలుగు",Gemini
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9017&e=.m3u8
+#EXTINF:-1  group-title="తెలుగు",Gemini Music
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9026&e=.m3u8
+#EXTINF:-1  group-title="తెలుగు",Gemini Comedy
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9027&e=.m3u8
+#EXTINF:-1  group-title="తెలుగు",Gemini Movies
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9015&e=.m3u8
+#EXTINF:-1  group-title="తెలుగు",#EXTINF:-1  group-title="తెలుగు",Gemini Life
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26572
+#EXTINF:-1  group-title="తెలుగు",Kushi TV
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=2657
+
+
+#EXTINF:-1  group-title="ಕನ್ನಡ",Udaya
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9029&e=.m3u8
+#EXTINF:-1  group-title="ಕನ್ನಡ",Udaya Music
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9022&e=.m3u8
+#EXTINF:-1  group-title="ಕನ್ನಡ",Udaya Comedy
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9014&e=.m3u8
+#EXTINF:-1  group-title="ಕನ್ನಡ",Udaya Movies
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26576
+#EXTINF:-1  group-title="ಕನ್ನಡ",Chintu TV
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26577
+
+
+#EXTINF:-1  group-title="മലയാളം",Surya
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9018&e=.m3u8
+#EXTINF:-1  group-title="മലയാളം",Surya Movies
+https://mhdtvapp.xyz/sunnxt/snxt.php?id=9019&e=.m3u8
+#http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=2003412&c=suryamovies&q=sd&=.m3u8
+#EXTINF:-1  group-title="മലയാളം",Surya Comedy
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=30835
+#EXTINF:-1  group-title="മലയാളം",KOCHU TV HD
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26573
+
+#EXTINF:-1  group-title="বাংলা",Sun Bangla
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=75117
+
+
+
 #EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",SUNTV HD
 http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",KTV HD
