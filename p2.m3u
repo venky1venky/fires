@@ -1,15 +1,26 @@
-#EXTINF:-1  group-title="GmbH-BDIX (সবার চলবে না)",T1
-http://srv1.telek.me:8080/3101/12286/c5abc49378a58a0a983674f5bfb1ecafa446e502
-#EXTINF:-1  group-title="GmbH-BDIX (সবার চলবে না)",T2
-http://srv1.telek.me:8080/3102/12286/c5abc49378a58a0a983674f5bfb1ecafa446e502
-#EXTINF:-1  group-title="GmbH-BDIX (সবার চলবে না)",T3
-http://srv1.telek.me:8080/2583/12286/c5abc49378a58a0a983674f5bfb1ecafa446e502
-#EXTINF:-1  group-title="GmbH-BDIX (সবার চলবে না)",T4
-http://srv1.telek.me:8080/1939/12286/c5abc49378a58a0a983674f5bfb1ecafa446e502
-#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",T5
+#EXTINF:-1  group-title="GmbH-BDIX (সবার চলবে না)",pov
+http://live.redtraffic.xyz/pov.m3u8 
+#EXTINF:-1  group-title="GmbH-BDIX (সবার চলবে না)",latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1  group-title="GmbH-BDIX (সবার চলবে না)",russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1  group-title="GmbH-BDIX (সবার চলবে না)",pornstar
+http://live.redtraffic.xyz/pornstar.m3u8 
+#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",teen
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",T6
+#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",livecams
 http://play.iptvxxx.net/livecams.m3u8
+
+#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",russkayanoch
+http://93.189.224.117:9030/russkayanoch
+#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",tv-p
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",superone
+http://185.96.176.139:8080/superone/index.m3u8
+#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",udp1
+http://37.235.200.88:81/udp/225.50.70.3:1234
+#EXTINF:-1 group-title="GmbH-BDIX (সবার চলবে না)",udp2
+http://37.235.200.88:81/udp/225.50.70.4:1234
 
 #EXTINF:-1, FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
