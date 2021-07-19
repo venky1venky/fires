@@ -9,25 +9,33 @@ https://mhdtvapp.xyz/sunnxt/snxt.php?id=32138&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="MY: COLORS TAMIL HD" tvg-name="ASTRO Colors Tamil" tvg-logo="https://i.postimg.cc/0Qwn6pDw/Colors-Tamil.png" group-title="LIVE | ASTRO",ASTRO Colors Tamil
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
-#http://iptv.tvmalaysia.cc:80/139664/139664/6716
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
+http://iptv.tvmalaysia.cc:80/139664/139664/6716
 #EXTINF:-1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="https://i.postimg.cc/TYYp9dLh/09zeetamilzeetamil.jpg" group-title="LIVE | ASTRO",ASTRO Zee Tamil HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+http://iptv.tvmalaysia.cc:80/139664/139664/6742
 #EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-name="ASTRO GO Shop 2" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="LIVE | ASTRO",ASTRO GO Shop 2
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6718
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6718
+http://iptv.tvmalaysia.cc:80/139664/139664/6718
 #EXTINF:-1 tvg-id="MY: ASTRO VINMEEN HD" tvg-name="ASTRO Vinmeen HD" tvg-logo="https://i.postimg.cc/mrMXqDGY/Vinmeen-ENG.png" group-title="LIVE | ASTRO",ASTRO Vinmeen HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+http://iptv.tvmalaysia.cc:80/139664/139664/66739
 #EXTINF:-1 tvg-id="MY: ASTRO VAANAVIL" tvg-name="ASTRO Vaanavil HD" tvg-logo="https://i.postimg.cc/4yn3fjP1/Astro-Vaanavil-v1.png" group-title="LIVE | ASTRO",ASTRO Vaanavil HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
+http://iptv.tvmalaysia.cc:80/139664/139664/6738
 #EXTINF:-1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="https://i.postimg.cc/mkfcWxr1/unnamed-7.jpg" group-title="LIVE | ASTRO",Makkal TV
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+http://iptv.tvmalaysia.cc:80/139664/139664/6806
 #EXTINF:-1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="https://i.postimg.cc/3x1Tdnq4/Sun-TV-logo-svg.png" group-title="LIVE | ASTRO",ASTRO Sun TV HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
+http://iptv.tvmalaysia.cc:80/139664/139664/6733
 #EXTINF:-1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="https://i.postimg.cc/Jnctnbjp/Star-vijay-channel-logo.jpg" group-title="LIVE | ASTRO",ASTRO Star Vijay HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
-#http://iptv.tvmalaysia.cc:80/139664/139664/6732
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+http://iptv.tvmalaysia.cc:80/139664/139664/6732
 #EXTINF:-1 tvg-id="" tvg-name="Jaya Max" tvg-logo="https://i.postimg.cc/HnmvMm5H/jaya-max-final.jpg" group-title="LIVE | ASTRO",Jaya Max
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6802
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/6802
+http://iptv.tvmalaysia.cc:80/139664/139664/6802
+
 
 #EXTINF:-1  group-title="తెలుగు",Gemini
 https://mhdtvapp.xyz/sunnxt/snxt.php?id=9017&e=.m3u8
